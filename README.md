@@ -5,7 +5,7 @@
 
 <h1 align="center">Tactics | Operations | Commannds | Control</h1>
 
-## Languages and Tools
+<h2 style="text-align: center;">Languages and Tools</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
