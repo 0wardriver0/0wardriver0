@@ -7,7 +7,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&random=false&width=435&lines=perceive+that+which+cannot+be+seen" alt="Typing SVG" /></a>
 </p>
 
-<h1 align="center">Tactics | Operations | Commannds | Control</h1>
+<h1 align="center">Tactics | Operations | Commands | Control</h1>
 
 <h2 align="center">Languages and Tools</h2>
 
