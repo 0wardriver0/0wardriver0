@@ -1,7 +1,3 @@
-<!-- TryHackMe Badge Script -->
-<p align="center">
-  <img src="http://forgejo.homelab:3000/lycan/.profile/src/branch/main/assets/badge.png" alt="TryHackMe">
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29F718&random=false&width=435&lines=perceive+that+which+cannot+be+seen" alt="Typing SVG" /></a>
@@ -15,7 +11,6 @@
   <img src="" alt="Image" style="height: 350px; vertical-align: middle; margin-left: 10px;" />
 </p>
 
-<h3 align="center">Credit to <a href="https://github.com/K3YOMI">K3YOMI</a> for image inspiration</h3>
 
 ## Languages and Tools
 
