@@ -8,7 +8,7 @@
 
 <h2 align="center">Control Station</h2>
 <p align="center">
-  <img src="" alt="Image" style="height: 350px; vertical-align: middle; margin-left: 10px;" />
+  <img src="https://github.com/TOCC-0p3r4t0r/TOCC-0p3r4t0r/blob/main/tocc.jpeg" alt="Image" style="height: 350px; vertical-align: middle; margin-left: 10px;" />
 </p>
 
 
