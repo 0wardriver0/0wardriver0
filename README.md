@@ -5,13 +5,6 @@
 
 <h1 align="center">Tactics | Operations | Commannds | Control</h1>
 
-
-<h2 align="center">Control Station</h2>
-<p align="center">
-  <img src="https://github.com/TOCC-0p3r4t0r/TOCC-0p3r4t0r/blob/main/tocc.jpeg" alt="Image" style="height: 350px; vertical-align: middle; margin-left: 10px;" />
-</p>
-
-
 ## Languages and Tools
 
 <p align="center">
@@ -19,5 +12,13 @@
     <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,git,docker,kubernetes,bash,py,flask,ubuntu,kali,raspberrypi,windows,cloudflare" />
   </a>
 </p>
+
+<h2 align="center">Control Station</h2>
+<p align="center">
+  <img src="https://github.com/TOCC-0p3r4t0r/TOCC-0p3r4t0r/blob/main/tocc.jpeg" alt="Image" style="height: 350px; vertical-align: middle; margin-left: 10px;" />
+</p>
+
+
+
 
 
