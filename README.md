@@ -1,16 +1,14 @@
 
+<h1 align="center">DEFTACC(Definitive Tactics & Control)</h1>
 
-<h1 align="center">Command & Control</h1>
+
+<h2 align="center">Operations | Control | Center</h2>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&random=false&width=435&lines=perceive+that+which+cannot+be+seen" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <img src="https://github.com/TOCC-0p3r4t0r/TOCC-0p3r4t0r/blob/main/tocc.jpeg" alt="Image" style="height: 350px; vertical-align: middle; margin-left: 10px;" />
 </p>
-
-
-
-<h2 align="center">Tactics | Operations | Command | Control</h2>
 
 <h1 align="center">🌊 Marine | 🛡️ Leader | 🕵️‍♂️ CIA Officer</h1>
 
