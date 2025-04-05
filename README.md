@@ -1,6 +1,9 @@
 
 <h1 align="center">DEFTACC(Definitive Tactics & Control)</h1>
 
+<h1 align="center">🌊 Marine | 🛡️ Leader | 🕵️‍♂️ CIA Officer</h1>
+
+**Passionate about service and leadership, I bring a unique blend of military discipline and intelligence expertise to every project. As a Marine, I’ve honed my skills in teamwork, strategy, and resilience. Currently, I leverage my experience at the CIA to tackle complex challenges and drive innovative solutions. Always eager to collaborate and learn, I’m excited to connect with fellow developers and contribute to impactful projects.**
 
 <h2 align="center">Operations | Control | Center</h2>
 <p align="center">
@@ -9,12 +12,6 @@
 <p align="center">
   <img src="https://github.com/TOCC-0p3r4t0r/TOCC-0p3r4t0r/blob/main/tocc.jpeg" alt="Image" style="height: 350px; vertical-align: middle; margin-left: 10px;" />
 </p>
-
-<h1 align="center">🌊 Marine | 🛡️ Leader | 🕵️‍♂️ CIA Officer</h1>
-
-**Passionate about service and leadership, I bring a unique blend of military discipline and intelligence expertise to every project. As a Marine, I’ve honed my skills in teamwork, strategy, and resilience. Currently, I leverage my experience at the CIA to tackle complex challenges and drive innovative solutions. Always eager to collaborate and learn, I’m excited to connect with fellow developers and contribute to impactful projects.**
-
-
 
 <h2 align="center">Tools</h2>
 
