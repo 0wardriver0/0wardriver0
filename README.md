@@ -3,7 +3,7 @@
 
 <h1 align="center">🌊 Coder | 🛡️ Leader | 🕵️‍♂️ Thinker</h1>
 
-**Passionate about service and leadership, I bring a unique blend of military discipline and intelligence expertise to every project. As a Marine, I’ve honed my skills in teamwork, strategy, and resilience. Currently, I leverage my experience at the CIA to tackle complex challenges and drive innovative solutions. Always eager to collaborate and learn, I’m excited to connect with fellow developers and contribute to impactful projects.**
+**Passionate about service and leadership, I bring a unique blend of discipline and intelligence expertise to every project. I’ve honed my skills in teamwork, strategy, and resilience. Currently, I leverage my experience to tackle complex challenges and drive innovative solutions. Always eager to collaborate and learn, I’m excited to connect with fellow developers and contribute to impactful projects.**
 
 <h2 align="center">Operations C2</h2>
 <p align="center">
