@@ -9,9 +9,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&random=false&width=435&lines=perceive+that+which+cannot+be+seen" alt="Typing SVG" /></a>
 </p>
-<p align="center">
-  <img src="https://github.com/0wardriver0/0wardriver0/blob/main/tocc.jpeg" alt="Image" style="height: 350px; vertical-align: middle; margin-left: 10px;" />
-</p>
 
 <h2 align="center">Tools</h2>
 
