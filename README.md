@@ -25,9 +25,12 @@
 </div>
 
 
+<h2 align="center">Stats</h2>
 
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0wardriver0&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="0wardriver0's Stats" />
+</p>
 
 
 
