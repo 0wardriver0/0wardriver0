@@ -1,4 +1,4 @@
-<h1 align="center">🌊 Tech Junkie | 🛡️ Leader | 🕵️‍♂️ Investigator</h1>
+<h1 align="center">🌊 Tech Junkie | 🛡️ Defender | 🕵️‍♂️ Investigator</h1>
 
 ### **Passionate about service and leadership, I bring a unique blend of discipline and intelligence expertise to every project. I’ve honed my skills in teamwork, strategy, and resilience. Currently, I leverage my experience to tackle complex challenges and drive innovative solutions. Always eager to collaborate and learn, I’m excited to connect with fellow developers and contribute to impactful projects.**
 
