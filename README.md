@@ -35,6 +35,10 @@ aboutMe.displayInfo();
 <h2 align="center">Stats</h2>
 
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=0wardriver0" alt="Profile view counter on GitHub">
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0wardriver0&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="0wardriver0's Stats" />
 </p>
