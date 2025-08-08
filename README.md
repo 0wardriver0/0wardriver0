@@ -1,10 +1,18 @@
-<h1 align="center">🌊 Tech Junkie | 🛡️ Defender | 🕵️‍♂️ Investigator</h1>
+<h1 align="center">🍟 Tech Junkie | 💻 Developer | 🧪 Homlabber</h1>
 
-### **Passionate about service and leadership, I bring a unique blend of discipline and intelligence expertise to every project. I’ve honed my skills in teamwork, strategy, and resilience. Currently, I leverage my experience to tackle complex challenges and drive innovative solutions. Always eager to collaborate and learn, I’m excited to connect with fellow developers and contribute to impactful projects.**
+```ts
+const aboutMe = new Developer(
+    'Wardriver',
+    'Developer, SysAdmin',
+    ['TypeScript', 'JavaScript', 'React', 'Node.js', 'Linux', 'Hardware'],
+    ['code', 'hack', 'repeat'],
+    'Passionate developer with a love for creating dynamic and useful projects.'
+);
 
-<h2 align="center">Creed</h2>
+aboutMe.displayInfo();
+```
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&random=false&width=435&lines=perceive+that+which+cannot+be+seen" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=379c2a0&random=false&width=435&lines=perceive+that+which+cannot+be+seen" alt="Typing SVG" /></a>
 </p>
 
 <h2 align="center">Tools</h2>
