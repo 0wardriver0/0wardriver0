@@ -12,11 +12,19 @@ const aboutMe = new Developer(
 aboutMe.displayInfo();
 ```
 
-<h2 align="center">Tools</h2>
+<h2 align="center">Dev-Tools</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,postgres,git,docker,bash,py,flask,ubuntu,kali,raspberrypi,windows,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=nextjs,vite,react,electron,nodejs,tailwind,postgres,prisma,supabase,git,go,flutter,docker,flask" />
+  </a>
+</p>
+
+<h2 align="center">Hacking</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,vim,ruby,ubuntu,kali,raspberrypi,windows,powershell,python,redis,selenium,discord,cloudflare" />
   </a>
 </p>
 
