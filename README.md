@@ -1,3 +1,6 @@
+
+![IllusionOS Screenshot](https://github.com/loopbacklycan/loopbacklycan/blob/main/setup.jpeg)
+
 <h1 align="center">🍟 Tech Junkie | 💻 Developer | 🧪 Homlabber</h1>
 
 ```ts
