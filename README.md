@@ -1,5 +1,5 @@
 
-![IllusionOS Screenshot](https://github.com/loopbacklycan/loopbacklycan/blob/main/setup.jpeg)
+![loopbacklycan Screenshot](https://github.com/loopbacklycan/loopbacklycan/blob/main/setup.jpeg)
 
 <h1 align="center">🍟 Tech Junkie | 💻 Developer | 🧪 Homlabber</h1>
 
@@ -48,6 +48,10 @@ aboutMe.displayInfo();
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=loopbacklycan" alt="Profile view counter on GitHub">
+</div>
+
+<div align="center">
+    <img src="https://github.com/loopbacklycan/loopbacklycan/blob/main/badge.png" alt="loopbacklycan Screenshot">
 </div>
 
 <p align="center">
