@@ -2,7 +2,7 @@
 
 ```ts
 const aboutMe = new Developer(
-    'Wardriver',
+    'loopbacklycan',
     'Developer, SysAdmin',
     ['TypeScript', 'JavaScript', 'React', 'Node.js', 'Linux', 'Hardware'],
     ['code', 'hack', 'repeat'],
@@ -44,11 +44,11 @@ aboutMe.displayInfo();
 
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=0wardriver0" alt="Profile view counter on GitHub">
+    <img src="https://komarev.com/ghpvc/?username=0loopbacklycan0" alt="Profile view counter on GitHub">
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0wardriver0&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="0wardriver0's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0loopbacklycan0&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="0loopbacklycan0's Stats" />
 </p>
 
 
