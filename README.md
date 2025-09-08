@@ -1,3 +1,4 @@
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
 ![loopbacklycan Screenshot](https://github.com/loopbacklycan/loopbacklycan/blob/main/setup.jpeg)
 
@@ -58,7 +59,7 @@ aboutMe.displayInfo();
   <img src="https://github-readme-stats.vercel.app/api?username=loopbacklycan&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="0loopbacklycan0's Stats" />
 </p>
 
-
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
 
 
