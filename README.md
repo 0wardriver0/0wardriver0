@@ -37,7 +37,6 @@ aboutMe.displayInfo();
     <img src="https://img.shields.io/badge/Flipper%20Zero-FF6A00?style=for-the-badge&logo=flipperzero&logoColor=white" alt="Flipper Zero" style="margin: 10px; height: 38px;" />
     <img src="https://img.shields.io/badge/Hack%20The%20Box-4CAF50?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack The Box" style="margin: 10px; height: 38px;" />
     <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" style="margin: 10px; height: 42px;" />
-    <img src="https://img.shields.io/badge/OpenWRT-000000?style=for-the-badge&logo=openwrt&logoColor=00BFFF" alt="OpenWRT" style="margin: 10px; height: 42px;" />
   </div>
 </div>
 
